@@ -1,1 +1,1 @@
-# nola2022
+# “Yours Truly Is True, Dear”: Gendered Barbershop Arranging Acoustically Reconsidered
