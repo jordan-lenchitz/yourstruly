@@ -17,3 +17,23 @@ For more on formants in general, see:
 For more on the human singing voice as a weakly-coupled source-filter instrument, see: 
 >Slawson, Wayne. _Sound Color_. University of California Press, 1985.
 
+# Examples
+<a href="https://github.com/jordan-lenchitz/nola2022/blob/main/Horizon%20-%20A1.pdf">Horizon - A1 visualizations</a>
+
+<a href="https://github.com/jordan-lenchitz/nola2022/blob/main/Horizon%20-%20A2.pdf">Horizon - A2 visualizations</a>
+
+<a href="https://github.com/jordan-lenchitz/nola2022/blob/main/Horizon%20-%20B.pdf">Horizon - B visualizations</a>
+
+<a href="https://github.com/jordan-lenchitz/nola2022/blob/main/Horizon%20-%20C.pdf">Horizon - C visualizations</a>
+
+<a href="https://github.com/jordan-lenchitz/nola2022/blob/main/Horizon%20-%20D.pdf">Horizon - D visualizations</a>
+
+<a href="https://github.com/jordan-lenchitz/nola2022/blob/main/Vine%20Street%20-%20A1.pdf">Vine Street - A1 visualizations</a>
+ 
+<a href="https://github.com/jordan-lenchitz/nola2022/blob/main/Vine%20Street%20-%20A2.pdf">Vine Street - A2 visualizations</a>
+  
+<a href="https://github.com/jordan-lenchitz/nola2022/blob/main/Vine%20Street%20-%20B.pdf">Vine Street - B visualizations</a>
+
+<a href="https://github.com/jordan-lenchitz/nola2022/blob/main/Vine%20Street%20-%20C.pdf">Vine Street - C visualizations</a>
+
+<a href="https://github.com/jordan-lenchitz/nola2022/blob/main/Vine%20Street%20-%20D.pdf">Vine Street - D visualizations</a>
