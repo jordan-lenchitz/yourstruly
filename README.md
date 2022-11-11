@@ -2,8 +2,7 @@
 
 Paper presented at  <a href="https://nola2022.ams-sem-smt.org/">AMS-SEM-SMT New Orleans 2022</a>. 
 
-Visualizations and recordings are labeled by the quartet in question (Vine Street or Horizon) and then a letter code to identify the arrangement sung (A-D).
-Vine Street - A1 and Horizon - A1 and A2 are the examples featured in the paper.
+Visualizations and recordings are labeled by the quartet in question (Horizon or Vine Street) and then a letter code to identify the arrangement sung (A1, A2, B, C, or D). Horizon - A1 and A2 and Vine Street - A1 are the examples featured in the paper.
 
 For more on formant tuning in barbershop, see: 
 >Kalin, Gustaf. “Formant Frequency Adjustment in Barbershop Quartet Singing.” M.S. thesis, Royal Institute of Technology, Stockholm, 2005.
